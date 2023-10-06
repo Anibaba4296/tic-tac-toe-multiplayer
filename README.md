@@ -11,11 +11,10 @@
 </div>
 <div>
   <h1>Instruction to start the game </h1>
-  <h2>Video Link : 
+  <h2>Video Link :</h2> 
 
 https://github.com/Anibaba4296/tic-tac-toe-multiplayer/assets/103889271/bb7af2f4-c21a-4506-9cce-141782c3b655
 
-</h2>
   <ul>
     <li>Open the webapp in two seperate window simultaneously.<br><br><img width="960" alt="image" src="https://github.com/Anibaba4296/tic-tac-toe-multiplayer/assets/103889271/61e5d969-ff06-4ff7-9081-8efe0d7e6347"></li>
     <br>
