@@ -11,8 +11,20 @@
 </div>
 <div>
   <h1>Instruction to start the game </h1>
+  <h2>Video Link : 
+
+https://github.com/Anibaba4296/tic-tac-toe-multiplayer/assets/103889271/bb7af2f4-c21a-4506-9cce-141782c3b655
+
+</h2>
   <ul>
-    <li>Open the webapp in two seperate window simultaneously.  </li>
+    <li>Open the webapp in two seperate window simultaneously.<br><br><img width="960" alt="image" src="https://github.com/Anibaba4296/tic-tac-toe-multiplayer/assets/103889271/61e5d969-ff06-4ff7-9081-8efe0d7e6347"></li>
+    <br>
+    <li>Enter player's name in both window and click on 'Connect to Opponent'.</li>
+    <li>On sucessfull connection the following page will appear<br><br><img width="948" alt="image" src="https://github.com/Anibaba4296/tic-tac-toe-multiplayer/assets/103889271/d841bcea-2952-4e78-81e6-e9171672d310">
+</li>
+    <li>Both the players need to play according to their turn. If they will play other's turn then he/she will lose the game.</li><br>
+    <li>The game result will be displayed in the following way.<br><br><img width="949" alt="image" src="https://github.com/Anibaba4296/tic-tac-toe-multiplayer/assets/103889271/b17316c9-c8bc-4ccf-a4ae-644987afac13">
+</li>
   </ul>
 </div>
 
